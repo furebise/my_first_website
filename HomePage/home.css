@@ -1,0 +1,72 @@
+/*            float              */
+.content{
+  float: left;
+}
+.clear{
+  clear: both;
+}
+/*           about               */
+.about{
+  background-color: #3366cc;
+}
+
+img.symbol{
+  width: 680px;
+}
+
+.content.about{
+  padding-top: 80px;
+  width:600px;
+}
+.content.about h1{
+  margin-top:20px;
+  text-align: center;
+}
+table.about{
+  margin: auto 0;
+}
+/*            WoT               */
+.wot{
+  background-color: #cc33cc;
+}
+.content.wot{
+  margin-top: 100px;
+  width:600px;
+}
+.content.wot h1{
+  text-align: center;
+}
+.wot .content.symbol{
+  margin-top:20px;
+}
+/*            46-48             */
+.idol{
+  background-color: #ff66ff;
+}
+.content.idol{
+  margin-top: 100px;
+  width:600px;
+}
+.content.idol h1{
+  text-align: center;
+}
+.idol .content.symbol{
+  margin-top:10px;
+}
+tr.prime{
+  color: red;
+}
+/*               twitter         */
+.twitter{
+  background-color: #33ff33;
+}
+.content.twitter{
+  margin-top: 100px;
+  width:600px;
+}
+.twitter .content.symbol{
+  margin-top:10px;
+}
+.content.twitter h1{
+  text-align: center;
+}

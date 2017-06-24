@@ -1,0 +1,31 @@
+ul.navbar{
+	position: fixed;
+	margin: 0 auto;
+	background-color: #dcdcdc;
+	opacity: 0.9;
+	height: 80px;
+}
+ul{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.navbar li{
+	float: left;
+	text-align: center;
+}
+li.content{
+	padding: 20px 10px;
+	font-size: 28px;
+}
+li.logo{
+	margin-right: 10px;
+	padding:0px;
+	background: url('icn.png');
+}
+img.icn{
+  height: 80px;
+  width: 80px;
+}
